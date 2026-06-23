@@ -1,5 +1,3 @@
-CS661 Assignment 1
-[Group Number : 2]
 
 Task 1: 2D Isocontour Extraction
 
